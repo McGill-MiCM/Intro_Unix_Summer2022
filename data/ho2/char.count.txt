@@ -1,0 +1,35 @@
+18	AT	Female
+18	BE	Female
+18	BG	Female
+18	CY	Female
+18	CZ	Female
+19	DE	Female
+18	DK	Female
+18	EE	Female
+18	GR	Female
+18	ES	Female
+18	FI	Female
+18	FR	Female
+18	HR	Female
+18	HU	Female
+18	IE	Female
+18	IT	Female
+18	LT	Female
+16	LU	Female
+18	LV	Female
+18	MK	Female
+18	MT	Female
+16	NL	Female
+18	NO	Female
+18	PL	Female
+18	PT	Female
+16	RO	Female
+18	SE	Female
+18	SI	Female
+18	SK	Female
+19	TR	Female
+18	UK	Female
+20	CC3	Female
+22	EU 15	Female
+22	NMS12	Female
+23	EU 27	Female
